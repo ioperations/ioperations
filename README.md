@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning linux kernel
 - 💞️ I’m looking to collaborate on distributed computing system
 - 📫 How to reach me ioperations.c@gmail.com
+- 📕 I public my blog via [ioperations.github.io](https://ioperations.github.io)
 
 <!---
 ioperations/ioperations is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
